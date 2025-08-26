@@ -1,0 +1,5 @@
+{
+  "name": "Pix Defense",
+  "description": "A tower defense game with deck-building mechanics. Draw tower cards, purchase them with gold, and strategically place them on the map to defend against waves of enemies. Manage your hand by locking cards or rerolling for better options, and control the pace of battle with adjustable game speed.",
+  "requestFramePermissions": []
+}
